@@ -50,3 +50,8 @@ QuadLLM is a personal project currently in development. The codebase is **not op
 ---
 
 Thanks for stopping by! 🌟  
+Copyright © 2025 Nandhu
+
+This project is for demonstration purposes only.
+No part of this repository may be reused, modified, or redistributed without explicit written permission.
+
