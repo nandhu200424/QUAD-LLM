@@ -39,7 +39,7 @@ Watch the screen recording
 
 ## 🤝 Community & Feedback
 
-This repo is meant to **showcase**, **inspire**, and **start conversations** — not to share production code. If you’re working on something similar, or want to collaborate or learn more, feel free to open an issue or connect with me on [LinkedIn]((https://www.linkedin.com/in/nandha-kumar242004/)).
+This repo is meant to **showcase**, **inspire**, and **start conversations** — not to share production code. If you’re working on something similar, or want to collaborate or learn more, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/nandha-kumar242004/).
 
 ---
 
