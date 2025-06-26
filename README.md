@@ -16,6 +16,9 @@ Welcome to **QuadLLM**, a project designed to explore how multiple large languag
 ## 🎥 Demo
 
 Watch the screen recording  
+## 🎥 Demo Video
+[![Watch the demo](https://img.youtube.com/vi/XmXkfdhTRKE/maxresdefault.jpg)](https://youtu.be/XmXkfdhTRKE)
+This video demonstrates how **QuadLLM** processes a prompt using two different LLMs  and displays their outputs side by side for real-time comparison and evaluation.
 
 
 ---
